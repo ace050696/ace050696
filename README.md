@@ -11,7 +11,7 @@ Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experien
 * 🖥️  See my portfolio at [jaber.dev](https://daniel.dev/)<br />
 * 🤝  I'm open to collaborating on Web Products<br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 
