@@ -1,133 +1,270 @@
-![It's ME](https://iili.io/HP917HJ.png)
 
-<h1 align="center">Hi there 👋 I'm Apoorv</h1>
-<h3 align="center">A passionate developer creating innovative solutions for real-world problems</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&height=54&lines=Hey%2C+I'm+Jaber+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 
-<p align="center">
-  <a href="https://apoorv-gamma.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linktr.ee/ap00rv" target="_blank"><img src="https://img.shields.io/badge/Contact_Me-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Contact"/></a>
-  <img src="https://komarev.com/ghpvc/?username=apoorvmaurya&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
-</p>
+# Full Stack Software Engineer Form Jordan  <picture><img src = "https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 40px></picture> 
+-------------------------------------
 
-## 💻 Tech Stack
+Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experiences | Turning Ideas into Code | Constantly Learning and Exploring New Technologies | Open Source Advocate | Let's Build the Web of Tomorrow, Today!
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  
-  <!-- Misc Skills -->
-  <img src="https://img.shields.io/badge/Technical_Documentation-212121?style=for-the-badge&logo=readme&logoColor=white" alt="Documentation"/>
-  <img src="https://img.shields.io/badge/Content_Writing-00A98F?style=for-the-badge&logo=markdown&logoColor=white" alt="Content Writing"/>
-  <img src="https://img.shields.io/badge/Community_Management-4285F4?style=for-the-badge&logo=google-chat&logoColor=white" alt="Community Management"/>
-  <img src="https://img.shields.io/badge/DevRel-FF4500?style=for-the-badge&logo=discourse&logoColor=white" alt="DevRel"/>
-</p>
 
-## 🚀 Featured Projects
+* 🌍  I'm based in Jardan
+* 🖥️  See my portfolio at [jaber.dev](https://jaber.dev/)
+* ✉️  You can contact me at [jaberthic@gmail.com](mailto:jaberthic@gmail.com)
+* 🤝  I'm open to collaborating on Web Products
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Virtual WorkStation</h3>
-      <p align="center">
-        <a href="https://github.com/apoorvmaurya/WorkStation-Virtual-Assistant-" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-        </a>
-      </p>
-      <p>A virtual assistant with voice commands for Wikipedia searches, web browsing, jokes, and more.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">AssesMed</h3>
-      <p align="center">
-        <a href="https://github.com/apoorvmaurya/AssesMed" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-        </a>
-        <a href="https://assesmed.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" alt="Live Demo"/>
-        </a>
-      </p>
-      <p>Risk assessment system for medical institutions to efficiently generate disease risk assessments for patients.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Simple WebPage</h3>
-      <p align="center">
-        <a href="https://github.com/apoorvmaurya/Python-WebPage" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-        </a>
-      </p>
-      <p>Simple interface to navigate web pages with URL loading and back navigation support.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">iCloud</h3>
-      <p align="center">
-        <a href="https://github.com/apoorvmaurya/iCloud" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repository"/>
-        </a>
-      </p>
-      <p>Platform with user and admin sections for viewing records of enrolled students and registered teachers.</p>
-    </td>
-  </tr>
-</table>
 
-<p align="center">
-  <a href="https://github.com/apoorvmaurya?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View_All_Repositories-121013?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-  </a>
-</p>
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=apoorvmaurya&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvmaurya&theme=onedark&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvmaurya&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apoorvmaurya&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 📫Connect With Me
 <p align="left">
-  <a href="https://twitter.com/Apoorv55248522" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="" height="30" width="40" style="margin-right: 25;" />
-  </a>
-  <a href="https://www.linkedin.com/in/apoorv-maurya2506/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 25;" />
-  </a>
-  <a href="https://www.instagram.com/apoorv_06/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 25;" />
-  </a>
+<a
+  href="https://docs.microsoft.com/en-us/dotnet/csharp/"
+  target="_blank"
+  rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
+    alt="C#"
+    width="40"
+    height="36"
+/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+    alt="Git"
+    width="40"
+    height="36"
+/></a>
+<a
+  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  target="_blank"
+  rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+    alt="JavaScript"
+    width="40"
+    height="36"
+/></a>
+
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+    alt="TypeScript"
+    width="40"
+    height="36"
+/></a>
+<a
+  href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+  target="_blank"
+  rel="noreferrer"
+>
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+    alt="HTML5"
+    width="40"
+    height="36"
+/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+    alt="React"
+    width="40"
+    height="36"
+/></a>
+
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
+    alt="Angular"
+    width="40"
+    height="36" /></a
+><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+    alt="CSS3"
+    width="40"
+    height="36" /></a
+><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+    alt="TailwindCSS"
+    width="40"
+    height="36" /></a
+><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+    alt="Sass"
+    width="40"
+    height="36" /></a
+><a href="https://redux.js.org/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+    alt="Redux"
+    width="40"
+    height="36" /></a
+><a href="https://svelte.dev/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg"
+    alt="Svelte"
+    width="40"
+    height="36" /></a
+><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+    alt="Vite"
+    width="40"
+    height="36" /></a
+><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+    alt="NodeJS"
+    width="40"
+    height="36" /></a
+><a href="https://graphql.org/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
+    alt="GraphQL"
+    width="40"
+    height="36" /></a
+><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+    alt="PostgreSQL"
+    width="40"
+    height="36" /></a
+><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+    alt="Firebase"
+    width="40"
+    height="36" /></a
+><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg"
+    alt=".NET"
+    width="40"
+    height="36" /></a
+><a href="https://www.docker.com/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+    alt="Docker"
+    width="40"
+    height="36" /></a
+><a href="https://www.linux.org" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+    alt="Linux"
+    width="40"
+    height="36" /></a
+><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg"
+    alt="Amazon Web Services"
+    width="40"
+    height="36" /></a
+><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
+    alt="Ethereum"
+    width="40"
+    height="36" /></a
+><a href="https://polygon.technology/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg"
+    alt="Polygon"
+    width="40"
+    height="36" /></a
+><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
+    alt="Google Cloud"
+    width="40"
+    height="36"
+/></a>
+
 </p>
 
-<div align="center">
-  
-  ### ✍️ Random Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-  
-  <p><em>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</em></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
+
+
+# Socials
+<p align="left">
+<a target="_blank" rel="noreferrer" href="https://hashnode.com/@JaberSaed"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="http://www.medium.com/@jabrsalm449"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="https://www.dev.to/jabersaed"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /></a
+  ><a
+    target="_blank"
+    rel="noreferrer"
+    href="https://www.linkedin.com/in/jaberdev"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="https://x.com/Jaber_Said_"
+ ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /></a
+  ><a
+    target="_blank"
+    rel="noreferrer"
+    href="https://codesandbox.io/u/jabrsalm449"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" /></a
+  ><a target="_blank" rel="noreferrer" href="https://codepen.io/Jaber-saed"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /></a
+  ><a
+    target="_blank"
+    rel="noreferrer"
+    href="https://www.stackoverflow.com/users/16387782/jaber-salem"
+    ><img
+      height="30"
+      width="40"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
+  /></a>
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/JaberDev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
+
+
+<br>
+<br>
+<br> -->
+
+<div align='center'>
+
+# <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
 </div>
+<br>
+<br>
