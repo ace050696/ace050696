@@ -6,12 +6,12 @@
 
 Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experiences | Turning Ideas into Code | Constantly Learning and Exploring New Technologies | Open Source Advocate | Let's Build the Web of Tomorrow, Today!
 
+<img align="left" alt="coding girl" width="355" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp"><br /><br />
+* 🌍  I'm based in Spain<br />
+* 🖥️  See my portfolio at [jaber.dev](https://daniel.dev/)<br />
+* 🤝  I'm open to collaborating on Web Products<br />
 
-* 🌍  I'm based in Spain
-* 🖥️  See my portfolio at [jaber.dev](https://daniel.dev/)
-* 🤝  I'm open to collaborating on Web Products
-
-
+<br /><br /><br /><br /><br />
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 
