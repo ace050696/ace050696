@@ -7,7 +7,7 @@
 Passionate Web Developer 🚀 | Crafting Engaging and Functional Online Experiences | Turning Ideas into Code | Constantly Learning and Exploring New Technologies | Open Source Advocate | Let's Build the Web of Tomorrow, Today!
 
 <br />
-* 🌍  I'm based in Spain<br />
+* 🌍  I'm based in Spain!<br />
 * 🖥️  See my portfolio at [About me](https://ace84.netlify.app)<br />
 * 🤝  I'm open to collaborating on Web Products<br />
 
